@@ -25,22 +25,22 @@ I executed a straightforward design approach, highlighting essential weather inf
 
 ## Features
 
--Display real-time weather information based on the user's input city.
--Utilize an external weather API to fetch up-to-date weather data.
--Show appropriate weather icons or animations based on the current weather conditions.
--Implement a theme switching functionality to enhance user experience.
--Incorporate Lottie animations to add engaging visual elements to the app.
+- Display real-time weather information based on the user's input city.
+- Utilize an external weather API to fetch up-to-date weather data.
+- Show appropriate weather icons or animations based on the current weather conditions.
+- Implement a theme switching functionality to enhance user experience.
+- Incorporate Lottie animations to add engaging visual elements to the app.
 
 ## Technologies Used
 
 This weather application is developed using the following technologies and features:
 
--React Native: A widely-used JavaScript framework for building cross-platform mobile applications.
--OpenWeather API: Integrated to fetch current weather data for the specified city.
--Lottie Animations: Used to enhance the user interface with captivating animations.
--Theme Switching: Implemented the ability to switch between different app themes for personalization.
--Dynamic Icon Rendering: Display weather-specific icons to provide visual cues about the weather conditions.
--User Input Handling: Gather user-provided city names and use them to fetch relevant weather data.
+- React Native: A widely-used JavaScript framework for building cross-platform mobile applications.
+- OpenWeather API: Integrated to fetch current weather data for the specified city.
+- Lottie Animations: Used to enhance the user interface with captivating animations.
+- Theme Switching: Implemented the ability to switch between different app themes for personalization.
+- Dynamic Icon Rendering: Display weather-specific icons to provide visual cues about the weather conditions.
+- User Input Handling: Gather user-provided city names and use them to fetch relevant weather data.
 
 ## Getting Started
 
