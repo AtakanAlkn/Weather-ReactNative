@@ -14,6 +14,7 @@ export const GlobalProvider = props => {
   const [pressure, setPressure] = useState();
   const [feels, setFeels] = useState();
   const [humidity, setHumudity] = useState();
+  const [customData, setCustomData] = useState();
 
   return (
     <GlobalContext.Provider
@@ -40,6 +41,8 @@ export const GlobalProvider = props => {
         setFeels,
         humidity,
         setHumudity,
+        customData,
+        setCustomData,
       }}>
       {props.children}
     </GlobalContext.Provider>
