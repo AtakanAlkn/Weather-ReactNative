@@ -25,11 +25,11 @@ I executed a straightforward design approach, highlighting essential weather inf
 
 ## Features
 
--Display real-time weather information based on the user's input city.
--Utilize an external weather API to fetch up-to-date weather data.
--Show appropriate weather icons or animations based on the current weather conditions.
--Implement a theme switching functionality to enhance user experience.
--Incorporate Lottie animations to add engaging visual elements to the app.
+- Display real-time weather information based on the user's input city.
+- Utilize an external weather API to fetch up-to-date weather data.
+- Show appropriate weather icons or animations based on the current weather conditions.
+- Implement a theme switching functionality to enhance user experience.
+- Incorporate Lottie animations to add engaging visual elements to the app.
 
 ## Technologies Used
 
